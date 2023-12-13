@@ -9,7 +9,7 @@ How to set up?
 Folder name: (Golf Game)
 
 
-![image]()
+![image](https://github.com/mamoon-17/Golf-Game/blob/main/Screenshot%202023-12-13%20232649.png)
 
 
 
@@ -17,7 +17,7 @@ Folder name: (Golf Game)
 •	Extract the folder.
 
 
-![image]()
+![image](https://github.com/mamoon-17/Golf-Game/blob/main/Screenshot%202023-12-13%20232747.png)
 
 
 
@@ -26,7 +26,7 @@ Open the file with .sln extension.
 
 
 
-![image]()
+![image](https://github.com/mamoon-17/Golf-Game/blob/main/Screenshot%202023-12-13%20233005.png)
 
 
 
