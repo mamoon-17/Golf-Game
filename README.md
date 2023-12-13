@@ -9,7 +9,7 @@ How to set up?
 Folder name: (Golf Game)
 
 
-![image](https://github.com/Huzaifa-Shabbir/L23-0647_L23-0613_J/assets/151964864/1dfe943b-29b7-4505-a11e-44ad72b79d46)
+![image]([https://github.com/Huzaifa-Shabbir/L23-0647_L23-0613_J/assets/151964864/1dfe943b-29b7-4505-a11e-44ad72b79d46](https://github.com/mamoon-17/Golf-Game/blob/main/Screenshot%202023-12-13%20232649.png))
 
 
 or
