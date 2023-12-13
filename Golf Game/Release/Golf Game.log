@@ -1,0 +1,237 @@
+﻿  Golf Game.cpp
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(13,13): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(44,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(44,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(152,13): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(178,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(178,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(290,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(290,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(295,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(296,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(317,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(317,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(326,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(326,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(333,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(333,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(334,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(338,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(338,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(374,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(374,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(378,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(378,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(485,45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(563,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(563,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(568,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(569,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(592,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(592,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(601,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(601,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(608,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(608,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(609,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(615,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(615,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(619,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(619,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(655,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(655,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(659,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(659,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(750,46): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(767,45): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+D:\Semester 1\golfgame\Golf Game\Golf Game\Golf Game.cpp(240): warning C4715: 'menu': not all control paths return a value
+  1 of 113 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Golf Game.vcxproj -> D:\Semester 1\golfgame\Golf Game\Release\Golf Game.exe
